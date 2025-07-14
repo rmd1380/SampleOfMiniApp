@@ -54,6 +54,6 @@ body {
 .user_info{
     z-index: 100;
     position: fixed; 
-    top: 10px;
+    top: 200px;
     right: 10px;
 }
