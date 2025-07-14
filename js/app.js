@@ -1,5 +1,5 @@
 const WelcomeEl = document.querySelector(".user_info")
 
-const usename = window.eitaa.initdata.user.first_name
+const usename = window.Eitaa.WebApp.initdata
 
 WelcomeEl.innerHTML = `Welcome ${usename}`
